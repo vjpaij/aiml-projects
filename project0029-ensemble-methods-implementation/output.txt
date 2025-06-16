@@ -1,0 +1,3 @@
+Random Forest Accuracy: 1.00
+Gradient Boosting Accuracy: 1.00
+Voting Classifier Accuracy: 1.00
