@@ -1,0 +1,2 @@
+Explained variance ratio: [0.92461872 0.05306648]
+Total variance retained: 0.9776852063187945
