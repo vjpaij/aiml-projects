@@ -1,0 +1,13 @@
+Bagging (Bootstrap Aggregation) Accuracy: 1.00
+
+Predictions from first 5 individual estimators:
+Tree 1 predictions: [1 0 2 1 1 0 1 2 1 1 2 0 0 0 0 1 2 1 1 2 0 2 0 2 2 2 2 2 0 0 0 0 1 0 0 2 1
+ 0 0 0 2 1 1 0 0]
+Tree 2 predictions: [1 0 2 1 1 0 1 2 2 1 2 0 0 0 0 1 2 1 1 2 0 2 0 2 2 2 2 2 0 0 0 0 1 0 0 2 1
+ 0 0 0 2 1 1 0 0]
+Tree 3 predictions: [1 0 2 1 2 0 1 2 1 1 2 0 0 0 0 1 2 1 1 2 0 2 0 2 2 2 2 2 0 0 0 0 1 0 0 2 1
+ 0 0 0 2 1 1 0 0]
+Tree 4 predictions: [1 0 2 1 1 0 1 2 1 1 2 0 0 0 0 1 2 1 1 2 0 2 0 2 2 2 2 2 0 0 0 0 1 0 0 2 1
+ 0 0 0 2 1 1 0 0]
+Tree 5 predictions: [1 0 2 1 1 0 1 2 1 1 2 0 0 0 0 1 2 1 1 2 0 2 0 2 2 2 2 2 0 0 0 0 1 0 0 2 1
+ 0 0 0 2 1 1 0 0]

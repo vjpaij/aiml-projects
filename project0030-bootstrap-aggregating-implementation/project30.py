@@ -19,7 +19,7 @@ base_model = DecisionTreeClassifier()
  
 # Create BaggingClassifier with multiple trees trained on bootstrapped samples
 bagging_model = BaggingClassifier(
-    base_estimator=base_model,
+    estimator=base_model,
     n_estimators=50,           # Number of trees
     max_samples=0.8,           # Fraction of dataset for each tree
     bootstrap=True,            # Use bootstrapped sampling
