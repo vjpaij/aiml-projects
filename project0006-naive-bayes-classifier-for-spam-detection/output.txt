@@ -1,0 +1,14 @@
+Classification Report:
+
+              precision    recall  f1-score   support
+
+         Ham       0.00      0.00      0.00         2
+        Spam       0.33      1.00      0.50         1
+
+    accuracy                           0.33         3
+   macro avg       0.17      0.50      0.25         3
+weighted avg       0.11      0.33      0.17         3
+
+
+Custom Email Prediction:
+'Free entry in a contest to win $10000 cash!' is classified as: Spam
