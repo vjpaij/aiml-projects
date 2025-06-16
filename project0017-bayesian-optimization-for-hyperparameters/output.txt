@@ -1,0 +1,2 @@
+Best Parameters (Bayesian Optimization): OrderedDict([('C', 0.6016307829589929), ('gamma', 0.32533825281254897), ('kernel', 'linear')])
+Best Cross-Validated Accuracy: 0.9867
