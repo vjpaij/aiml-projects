@@ -1,0 +1,15 @@
+Top 2 Features (Univariate Selection - ANOVA F-test):
+['petal length (cm)', 'petal width (cm)']
+
+Top 2 Features (Recursive Feature Elimination):
+['petal length (cm)', 'petal width (cm)']
+
+Feature Importances (Random Forest):
+             Feature  Importance
+2  petal length (cm)    0.436130
+3   petal width (cm)    0.436065
+0  sepal length (cm)    0.106128
+1   sepal width (cm)    0.021678
+
+Top 2 Features (Random Forest Importance):
+['petal length (cm)' 'petal width (cm)']
