@@ -1,0 +1,5 @@
+Model Coefficient (Slope): 0.49999999999999994
+Model Intercept: 1.1368683772161603e-13
+Mean Squared Error: 9.693522803355793e-28
+
+Predicted price for 1600 sq.ft: $800000.00
