@@ -1,0 +1,4 @@
+Cluster Centers (Annual Income, Spending Score):
+Cluster 1: Income = 29.14, Spending Score = 72.71
+Cluster 2: Income = 85.00, Spending Score = 48.89
+Cluster 3: Income = 22.75, Spending Score = 26.25
