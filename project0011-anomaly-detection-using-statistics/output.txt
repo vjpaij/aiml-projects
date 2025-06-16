@@ -1,0 +1,3 @@
+Anomaly Detection using Z-Score:
+
+Index 18: Value = 700, Z-score = 3.54
