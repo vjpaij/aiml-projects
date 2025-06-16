@@ -1,0 +1,5 @@
+Confusion Matrix:
+
+                   Predicted Setosa  Predicted Versicolor
+Actual Setosa                    17                     0
+Actual Versicolor                 0                    13
