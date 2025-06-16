@@ -1,0 +1,34 @@
+Generation 1: Best x = 7.2203, f(x) = 5.8186
+Generation 2: Best x = 7.2203, f(x) = 5.8186
+Generation 3: Best x = 7.2203, f(x) = 5.8186
+Generation 4: Best x = 7.2203, f(x) = 5.8186
+Generation 5: Best x = 7.2203, f(x) = 5.8186
+Generation 6: Best x = 7.2203, f(x) = 5.8186
+Generation 7: Best x = 7.2203, f(x) = 5.8186
+Generation 8: Best x = 7.2203, f(x) = 5.8186
+Generation 9: Best x = 7.2203, f(x) = 5.8186
+Generation 10: Best x = 7.2203, f(x) = 5.8186
+Generation 11: Best x = 7.2203, f(x) = 5.8186
+Generation 12: Best x = 7.2203, f(x) = 5.8186
+Generation 13: Best x = 7.2203, f(x) = 5.8186
+Generation 14: Best x = 7.2203, f(x) = 5.8186
+Generation 15: Best x = 7.2203, f(x) = 5.8186
+Generation 16: Best x = 7.2203, f(x) = 5.8186
+Generation 17: Best x = 7.2203, f(x) = 5.8186
+Generation 18: Best x = 7.2203, f(x) = 5.8186
+Generation 19: Best x = 7.2203, f(x) = 5.8186
+Generation 20: Best x = 7.2203, f(x) = 5.8186
+Generation 21: Best x = 7.2203, f(x) = 5.8186
+Generation 22: Best x = 7.2203, f(x) = 5.8186
+Generation 23: Best x = 7.2203, f(x) = 5.8186
+Generation 24: Best x = 7.2203, f(x) = 5.8186
+Generation 25: Best x = 7.2203, f(x) = 5.8186
+Generation 26: Best x = 7.2203, f(x) = 5.8186
+Generation 27: Best x = 7.2203, f(x) = 5.8186
+Generation 28: Best x = 7.2203, f(x) = 5.8186
+Generation 29: Best x = 7.2203, f(x) = 5.8186
+Generation 30: Best x = 7.2203, f(x) = 5.8186
+
+Final Best Solution:
+  x = 7.2203
+  f(x) = 5.8186
