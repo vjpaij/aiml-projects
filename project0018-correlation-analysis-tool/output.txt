@@ -1,0 +1,7 @@
+Correlation Matrix:
+
+                    Age    Income  SpendingScore  CreditScore
+Age            1.000000  0.984664       0.962619     0.894368
+Income         0.984664  1.000000       0.975591     0.887006
+SpendingScore  0.962619  0.975591       1.000000     0.864408
+CreditScore    0.894368  0.887006       0.864408     1.000000
