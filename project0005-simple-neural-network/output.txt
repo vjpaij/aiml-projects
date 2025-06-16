@@ -1,0 +1,16 @@
+Epoch 0 - Loss: 0.3322
+Epoch 1000 - Loss: 0.2490
+Epoch 2000 - Loss: 0.2444
+Epoch 3000 - Loss: 0.2180
+Epoch 4000 - Loss: 0.1561
+Epoch 5000 - Loss: 0.0560
+Epoch 6000 - Loss: 0.0209
+Epoch 7000 - Loss: 0.0109
+Epoch 8000 - Loss: 0.0069
+Epoch 9000 - Loss: 0.0049
+
+Final predictions after training:
+[[0.047]
+ [0.957]
+ [0.925]
+ [0.072]]
