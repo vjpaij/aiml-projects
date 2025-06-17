@@ -1,0 +1,12 @@
+Frequent Itemsets:
+    support         itemsets
+0      1.0          (bread)
+1      0.6         (butter)
+2      0.6           (milk)
+3      0.6  (butter, bread)
+4      0.6    (milk, bread)
+
+Association Rules:
+   antecedents consequents  support  confidence  lift
+0    (butter)     (bread)      0.6         1.0   1.0
+1      (milk)     (bread)      0.6         1.0   1.0
