@@ -1,0 +1,7 @@
+Conversion Rate A (Control): 0.124
+Conversion Rate B (Variant): 0.152
+Lift: 22.58%
+
+T-Test p-value: 0.0695
+Z-Test z-score: 1.82
+Z-Test one-tailed p-value: 0.0347
