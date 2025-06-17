@@ -1,0 +1,17 @@
+🔍 Frequent Itemsets:
+
+   support         itemsets
+0      0.7          (bread)
+1      0.6         (butter)
+2      0.4            (jam)
+3      0.6           (milk)
+4      0.4  (butter, bread)
+5      0.3     (jam, bread)
+6      0.4    (milk, bread)
+7      0.3   (butter, milk)
+
+📊 Association Rules:
+
+If a user buys [butter], they are likely to buy [bread] — support: 0.40, confidence: 0.67, lift: 0.95
+If a user buys [jam], they are likely to buy [bread] — support: 0.30, confidence: 0.75, lift: 1.07
+If a user buys [milk], they are likely to buy [bread] — support: 0.40, confidence: 0.67, lift: 0.95
